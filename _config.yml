@@ -26,22 +26,23 @@ author:
   avatar           : "gt_young.jpg"
   name             : "tiemanng"
   pronouns         : # example: "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Bio"
   location         : "Klagenfurt/ Vienna"
   employer         : "University of Klagenfurt"
+  employer         : "Institute for Advanced Studies, Vienna"
   uri              : # URL
   email            : "guido.tiemann@aau.at" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=w1lVMZUAAAAJ&hl=de&inst=9848198630549595995&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-1072-1189"
+  orcid            : "https://orcid.org/0000-0003-1072-1189"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : "https://www.zotero.org/tiemanng/library"
