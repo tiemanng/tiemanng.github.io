@@ -23,7 +23,7 @@ repository               : "https://github.com/tiemanng"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gt_young.png"
+  avatar           : "gt_young.jpg"
   name             : "tiemanng"
   pronouns         : # example: "he/his"  
   bio              : "Short biography for the left-hand sidebar"
