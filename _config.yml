@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Guido Tiemann"
 title_separator          : "-"
 name                     : &name "Guido Tiemann"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Academic Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://tiemanng.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -31,7 +31,9 @@ author:
   employer         : "University of Klagenfurt"
   employer         : "Institute for Advanced Studies, Vienna"
   uri              : # URL
-  email            : "guido.tiemann@aau.at" 
+  email            : "guido.tiemann@aau.at"
+  email            : "guido.tiemann@ihs.ac.at"
+  email            : "tiemanng@gmail.com"
 
   # Academic websites
   academia         : # URL
@@ -65,7 +67,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "@tiemanng"
+  instagram        : "https://www.instagram.com/tiemanng/"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
