@@ -7,12 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-I am a political scientist at the University of Klagenfurt and the Institute for Advanced Studies in Vienna. Before, I worked at the University of Greifswald (1999-2003), the European University Viadrina in Frankfurt an der Oder (2003-06), and at the Max Planck Institute for the Study of Societies (2006-07). I hold an MA from Philipps University Marburg (1999) and a PhD from the European University Viadrina (2005).
+I am a political scientist at the University of Klagenfurt and the Institute for Advanced Studies (IHS) Vienna. My work studies how voters and parties make strategic choices under certainty, risk, and uncertainty, and how institutions and geography shape electoral competition.
 
-My substantive research focuses on behavioral politics: (the spatial theory of) voting and party competition, the emergence and consequences of electoral systems, geographical models of electoral returns, and, more recently, the determinants of welfare attitudes and welfare chauvinism. Focusing on the intersection of theory and methods, I subscribe to the EITM paradigm, have strong interests in social choice and game theory, and apply frequentist and Bayesian models to address imminent research questions.
+Substantively, I focus on electoral behaviour, party competition, electoral systems, welfare attitudes, and territorial patterns in election outcomes. Methodologically, I combine spatial voting theory with frequentist and Bayesian modelling in comparative and multilevel designs.
 
+Before moving to Vienna and Klagenfurt, I held positions at the University of Greifswald, the European University Viadrina, and the Max Planck Institute for the Study of Societies.
 
+## Big in Vienna
 
-For more info
-------
-Please call me or drop me a mail!
+<p style="text-align: center;">
+  <a href="/images/big-in-vienna.jpeg">
+    <img src="/images/big-in-vienna.jpeg" alt="Big in Vienna comic" style="max-width: 320px; width: 100%; height: auto;" />
+  </a><br />
+  <em>"Big in Vienna" comic (click to enlarge).</em>
+</p>
+
+## Current Focus
+
+- [Research agenda and active projects](/research/)
+- [Publications (with PDF and DOI links)](/publications/)
+- [Funded projects and project summaries](/projects/)
+- [Talks and presentations](/talks/)
+- [Full CV](/cv/)
+
+## Recent Paper
+
+[Vote Choice under Certainty, Risk, and Uncertainty (*Electoral Studies*, 2025)](/publication/2025-art-uncertainty)
+
+## Collaboration and Contact
+
+I am available for research collaboration, talks, and reviewing. The fastest way to reach me is via [email](mailto:guido.tiemann@ihs.ac.at).

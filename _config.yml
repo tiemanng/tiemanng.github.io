@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Guido Tiemann"
 title_separator          : "-"
 name                     : &name "Guido Tiemann"
-description              : &description "Academic Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Political scientist researching electoral behaviour, party competition, and political geography in Europe."
 url                      : https://tiemanng.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,16 +24,13 @@ repository               : "https://github.com/tiemanng"
 author:
   # Biographic information
   avatar           : "gt_young.jpg"
-  name             : "tiemanng"
+  name             : "Guido Tiemann"
   pronouns         : # example: "he/his"  
-  bio              : "Bio"
+  bio              : "Political scientist at the University of Klagenfurt and IHS Vienna. Research on voting, party competition, and electoral systems."
   location         : "Klagenfurt/ Vienna"
-  employer         : "University of Klagenfurt"
-  employer         : "Institute for Advanced Studies, Vienna"
-  uri              : # URL
-  email            : "guido.tiemann@aau.at"
+  employer         : "University of Klagenfurt; Institute for Advanced Studies, Vienna"
+  uri              : "https://tiemanng.github.io"
   email            : "guido.tiemann@ihs.ac.at"
-  email            : "tiemanng@gmail.com"
 
   # Academic websites
   academia         : # URL
@@ -54,14 +51,14 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/tiemanng"
+  github           : "tiemanng"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
   bluesky          : "tiemanng.bsky.app" # Replace this with you Bluesky username
-  facebook         : "https://www.facebook.com/guido.tiemann.33"
+  facebook         : "guido.tiemann.33"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -89,16 +86,18 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  journals:
+    title: 'Journal Articles'
+  chapters:
+    title: 'Book Chapters'
+  other:
+    title: 'Other Publications'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
@@ -141,19 +140,25 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "tiemanng"
 facebook:
-  username               :
+  username               : "guido.tiemann.33"
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "/images/gt_young.jpg"
+og_description           : "Guido Tiemann - research on electoral behaviour, party competition, and political geography."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Guido Tiemann"
+  links:
+    - "https://tiemanng.github.io"
+    - "https://github.com/tiemanng"
+    - "https://orcid.org/0000-0003-1072-1189"
+    - "https://scholar.google.com/citations?user=w1lVMZUAAAAJ&hl=de&inst=9848198630549595995&oi=ao"
+    - "https://www.zotero.org/tiemanng/library"
+    - "https://bsky.app/profile/tiemanng.bsky.app"
 
 
 # Analytics
@@ -232,7 +237,7 @@ collections:
     permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /projects/:path/
   talks:
     output: true
     permalink: /:collection/:path/
